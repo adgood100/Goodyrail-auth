@@ -1,0 +1,43 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+/*	background-image: url(../images/train.jpg);
+	background-position: center;
+	background-size: cover; */
+}
+
+/*.jumbotron {
+	background-image: url(../images/goodyrail.jpg) no-repeat;
+	background: rgb(105, 105, 105);
+	background: rgba(105, 105, 105, .5);	
+	color: #fff;
+	text-shadow: 2px 2px 4px #000000;
+}
+*/
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../images/goodyrail.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+h1.jumboText {
+
+	color: white;
+}
+
+
+.panel-success>.panel-heading {
+	color: #fff;
+    background-color: #758FB2;
+    border-color: #f9ec8c;
+}
+
+.panel-success {
+    border-color: #f9ec8c;
+}
